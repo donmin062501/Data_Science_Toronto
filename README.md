@@ -1,4 +1,4 @@
-# UofT_data_science_2020
+# University of Toronto Data Science Club Workshop
 
 Workshop Lead Team: Chris Alemao, Shahriyar Habib, Don Min
 
